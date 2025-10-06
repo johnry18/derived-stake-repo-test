@@ -1,0 +1,20 @@
+{
+"frames": {
+	"freespin-logo": {
+		"frame": {"x":0, "y":0, "w":768, "h":255},
+		"spriteSourceSize": {"x":0,"y":0,"w":768,"h":255},
+		"sourceSize": {"w":768,"h":255}
+	},
+	"main-logo": {
+		"frame": {"x":0, "y":265, "w":768, "h":252},
+		"spriteSourceSize": {"x":0,"y":0,"w":768,"h":252},
+		"sourceSize": {"w":768,"h":252}
+	}
+
+},
+"meta": {
+	"image": "logo.png",
+	"size": {"w": 778, "h": 527},
+	"scale": "1"
+}
+}
