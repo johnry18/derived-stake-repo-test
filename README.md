@@ -33,8 +33,12 @@ pnpm run build --filter=gmg-test
 
 # Feature
 
+- Free spin
 - Walking wilds
-- App level context for background fit size
+
+#Context
+
+- Added background size context on app level
 
 # Storybook
 - Loading screen
