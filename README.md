@@ -36,7 +36,7 @@ pnpm run build --filter=gmg-test
 - Free spin
 - Walking wilds
 
-#Context
+# Context
 
 - Added background size context on app level
 
