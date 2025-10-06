@@ -41,6 +41,7 @@
 	/>
 </FadeContainer>
 
+{#if !context.stateLayout.showLoadingScreen}
 <FadeContainer show={!isFeatureState} duration={500} zIndex={-1}>
 	<Sprite 
 		key="main-logo" 
@@ -60,3 +61,4 @@
 		scale={sizeLayout.scale * 0.95}
 	/>
 </FadeContainer>
+{/if}
